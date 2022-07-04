@@ -1,2 +1,4 @@
 deloying Java applicatio
-deploy to staginhg environmentn
+deploy to staginhg environment
+
+echo good job guys
