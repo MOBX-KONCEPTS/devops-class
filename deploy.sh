@@ -1,1 +1,2 @@
-deloying Java application
+deloying Java applicatio
+deploy to staginhg environmentn
